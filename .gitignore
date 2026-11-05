@@ -20,3 +20,4 @@ venv/
 # Fichiers temporaires
 *.tmp
 *.log
+data/external/*.zip
